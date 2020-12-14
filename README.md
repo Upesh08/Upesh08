@@ -1,6 +1,7 @@
 
-[![animated](https://github.com/Upesh08/Upesh08/blob/main/Cover_Photo_Signature.gif)](https://dwe.st/rr)
+
 <p align="center">
+[![animated](https://github.com/Upesh08/Upesh08/blob/main/Cover_Photo_Signature.gif)](https://dwe.st/rr)
 <b><i> You can reach out to me anytime! Contact Me 💌 </i></b>
 </p>
 <p align="center">
