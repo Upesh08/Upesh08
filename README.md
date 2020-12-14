@@ -13,8 +13,8 @@
 </p>
 
 <hr>
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-<hr>
+<h3> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h3>
+
 
 ### About Me 🕴🏼
 <p>
