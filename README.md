@@ -14,8 +14,9 @@
    <br/>
 </p>
 
-<h2 align="center"><b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 </b></h2>
-
+<p align="center">
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 </h2>
+</p>
 
 ### About Me 🕴🏼
 <p>
