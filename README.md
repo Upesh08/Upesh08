@@ -25,7 +25,7 @@ Currently, I am working on DuckCreek tool in Insurance domain at LTI. I have wor
 
 ### Interests 🤹🏻‍♂️
 
-I have an interest in writing technical blogs. I've always enjoyed writing and have recently started writing about topics related to Python and other stuffs. Do check out my blog [Codebyte](https://codebyte.hashnode.dev/).
+I have an interest in writing technical blogs. I've always enjoyed writing and have recently started writing about topics related to Python and other stuffs. Do check out my blog [Codebyte](https://codebyte.hashnode.dev/).I am always open to internship opportunities and freelance projects.
 
 ### Hobbies 👻
 
