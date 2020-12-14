@@ -1,4 +1,4 @@
-![alt text](https://github.com/Upesh08/Win_Me_All_Card_Game/blob/main/facebook_cover_photo_2.png)
+![alt text](https://github.com/Upesh08/Win_Me_All_Card_Game/blob/main/black.png)
 <p align="center">
 
 <b><i> Connect with me below.</i></b>
