@@ -1,18 +1,21 @@
 [![animated](https://github.com/Upesh08/Upesh08/blob/main/Cover_Photo_Signature.gif)](https://dwe.st/rr)
 
 <p align="center">
-<b><i> You can reach out to me anytime! Contact Me 💌 </i></b>
-</p>
-<p align="center">
-	<a href="https://github.com/Upesh08"><img height="25" src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
-	<a href="https://www.linkedin.com/in/upesh-m-970862109"><img height="25" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://hashnode.com/@Upesh-Maharana"><img height="25" src="https://img.shields.io/badge/Hashnode--_.svg?style=social&logo=hashnode" alt="Hashnode"></a>
-	<a href="https://www.facebook.com/upesh.maharana"><img height="25" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
-	<a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-	
+<b><i> You can reach out to me anytime on</i></b>
 </p>
 
-### <b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 !!</b>
+<p align="center">
+   <a href="https://github.com/Upesh08"><img height="25" src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
+   <a href="https://www.linkedin.com/in/upesh-m-970862109"><img height="25" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+   <a href="https://hashnode.com/@Upesh-Maharana"><img height="25" src="https://img.shields.io/badge/Hashnode--_.svg?style=social&logo=hashnode" alt="Hashnode"></a>
+   <a href="https://www.facebook.com/upesh.maharana"><img height="25" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+   <a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+   <br/>
+   <br/>
+</p>
+
+<h2 align="center"><b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 </b></h2>
+
 
 ### About Me 🕴🏼
 <p>
