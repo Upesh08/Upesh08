@@ -12,7 +12,7 @@
    <a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>  
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Upesh08.visitor-badge)</a>
+<p align="center"><a><img src="https://visitor-badge.glitch.me/badge?page_id=Upesh08.visitor-badge" ></a></p>
 
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
