@@ -24,24 +24,15 @@
 Software Engineer @ LTI 🏢 | Data Science Enthusiast 👨‍💻| Explorer 🤠 | Photographer 📷 | Foodie 🍲 | and I ❤️ Programming | 
   
 - 🌱 I’m currently learning everything.  
-- 🥅 2020 Goals: Learn more and contribute more to Open Source projects.
+- 🥅 2020 Goals: Learn and start contributing into Open Source projects.
 - ⚡ Fun fact: I love Biryani more than my life. 🤣
 
 </p>
 
 ### Technical Skills 🖥️
 
-Currently, I am working on DuckCreek tool in Insurance domain at LTI. I have worked on the technologies like .Net, Html, Css and Sql Server. I am currently learning Python, Data Science and looking forward to contribute in the area of Data Science. 
+Currently, I am working on DuckCreek tool in Insurance domain at LTI. I have worked on the technologies like .Net <img alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />, Html <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />, Css <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> and Sql <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />. I am currently learning Python <img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />, Data Science and looking forward to contribute in the area of Data Science. 
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 
 ### Interests 🤹🏻‍♂️
 
@@ -51,9 +42,4 @@ I have an interest in writing technical blogs. I've always enjoyed writing and h
 
 I love playing basketball 🏀 , enjoy watching movies🍿, doing photography 📷 and cooking delicious foods 👨‍🍳.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Upesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Upesh's github stats](https://github-readme-stats.vercel.app/api?username=Upesh08&count_private=true&show_icons=true&theme=radical)](https://github.com/Upesh08/github-readme-stats)
