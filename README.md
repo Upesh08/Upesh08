@@ -12,14 +12,14 @@
    <a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>  
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Upesh08.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Upesh08.visitor-badge)</a>
 
-<h3> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h3>
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 ### About Me 🕴🏼
 <p>
-    Software Engineer @ LTI 🏢 | Data Science Enthusiast | Explorer 🤠 | Photographer 📷 | Foodie 🍲 | I ❤️ Programming | 
+    Software Engineer @ LTI 🏢 | Data Science Enthusiast 👨‍💻| Explorer 🤠 | Photographer 📷 | Foodie 🍲 | and I ❤️ Programming | 
 </p>
 
 ### Technical Skills 🖥️
