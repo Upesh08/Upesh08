@@ -31,7 +31,7 @@ Software Engineer @ LTI 🏢 | Data Science Enthusiast 👨‍💻| Explorer �
 
 ### Technical Skills 🖥️
 
-Currently, I am working on DuckCreek tool in Insurance domain at LTI. I have worked on the technologies like .Net <img alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />, Html <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />, Css <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> and Sql <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />. I am currently learning Python <img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> with Data Science and looking forward to contribute in the area of Data Science in future. 
+Currently, I am working on DuckCreek tool in Insurance domain at LTI. I have worked on the technologies like .Net <img alt="dotnet" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />, Html <img alt="HTML" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />, Css <img alt="CSS" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> and Sql <img alt="MySQL" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />. I am currently learning Python <img alt="python" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> with Data Science and looking forward to contribute in the area of Data Science in future. 
 
 
 ### Interests 🤹🏻‍♂️
@@ -42,4 +42,5 @@ I have an interest in writing technical blogs. I've always enjoyed writing and h
 
 I love playing basketball 🏀 , enjoy watching movies🍿, doing photography 📷 and cooking delicious foods 👨‍🍳.
 
+### Stats 
 [![Upesh's github stats](https://github-readme-stats.vercel.app/api?username=Upesh08&count_private=true&show_icons=true&theme=radical)](https://github.com/Upesh08/github-readme-stats)
