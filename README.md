@@ -9,10 +9,11 @@
    <a href="https://www.linkedin.com/in/upesh-m-970862109"><img height="25" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
    <a href="https://hashnode.com/@Upesh-Maharana"><img height="25" src="https://img.shields.io/badge/Hashnode--_.svg?style=social&logo=hashnode" alt="Hashnode"></a>
    <a href="https://www.facebook.com/upesh.maharana"><img height="25" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
-   <a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+   <a href="https://www.instagram.com/upesh_maharana/"><img height="25" src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>  
 </p>
 
-<hr>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Upesh08.visitor-badge)
+
 <h3> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h3>
 
 
