@@ -24,7 +24,7 @@
 Software Engineer @ LTI 🏢 | Data Science Enthusiast 👨‍💻| Explorer 🤠 | Photographer 📷 | Foodie 🍲 | and I ❤️ Programming | 
   
 - 🌱 I’m currently learning everything.  
-- 🥅 2020 Goals: Learn and start contributing into Open Source projects.
+- 🥅 2021 Goals: Learn more and start contributing into Open Source projects.
 - ⚡ Fun fact: I love Biryani more than my life. 🤣
 
 </p>
