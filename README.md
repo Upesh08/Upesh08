@@ -40,7 +40,7 @@ I have an interest in writing technical blogs. I've always enjoyed writing and h
 
 ### Hobbies 👻
 
-I love playing basketball 🏀 , enjoy watching movies🍿, doing photography 📷 and cooking delicious foods 👨‍🍳.
+I love playing basketball 🏀, enjoy watching movies🍿, doing photography 📷 and cooking delicacies 👨‍🍳.
 
 ### Stats 
 [![Upesh's github stats](https://github-readme-stats.vercel.app/api?username=Upesh08&count_private=true&show_icons=true&theme=radical)](https://github.com/Upesh08/github-readme-stats)
